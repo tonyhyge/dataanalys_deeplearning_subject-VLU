@@ -1,0 +1,180 @@
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,firstName,secondName,AgeGroup,namePrefix,familySize,Alone,typeCabin
+710,1,3,M,24.0,1,1,2661,15.2458,,C,Moubarek," Master. Halim Gonios (""William George"")",Adult,Master,3,0,Unknown
+440,0,2,M,31.0,0,0,C.A. 18723,10.5,,S,Kvillner, Mr. Johan Henrik Johannesson,Adult,Mr,1,1,Unknown
+841,0,3,M,20.0,0,0,SOTON/O2 3101287,7.925,,S,Alhomaki, Mr. Ilmari Rudolf,Adult,Mr,1,1,Unknown
+721,1,2,F,6.0,0,1,248727,33.0,,S,Harper," Miss. Annie Jessie ""Nina""",Kid,Miss,2,0,Unknown
+40,1,3,F,14.0,1,0,2651,11.2417,,C,Nicola-Yarred, Miss. Jamila,Teen,Miss,2,0,Unknown
+291,1,1,F,26.0,0,0,19877,78.85,,S,Barber," Miss. Ellen ""Nellie""",Adult,Miss,1,1,Unknown
+301,1,3,F,24.0,0,0,9234,7.75,,Q,Kelly," Miss. Anna Katherine ""Annie Kate""",Adult,Miss,1,1,Unknown
+334,0,3,M,16.0,2,0,345764,18.0,,S,Vander Planke, Mr. Leo Edmondus,Teen,Mr,3,0,Unknown
+209,1,3,F,16.0,0,0,367231,7.75,,Q,Carr," Miss. Helen ""Ellen""",Teen,Miss,1,1,Unknown
+137,1,1,F,19.0,0,2,11752,26.2833,D47,S,Newsom, Miss. Helen Monypeny,Adult,Miss,3,0,D
+138,0,1,M,37.0,1,0,113803,53.1,C123,S,Futrelle, Mr. Jacques Heath,Adult,Mr,2,0,C
+697,0,3,M,44.0,0,0,363592,8.05,,S,Kelly, Mr. James,Adult,Mr,1,1,Unknown
+486,0,3,F,24.0,3,1,4133,25.4667,,S,Lefebre, Miss. Jeannie,Adult,Miss,5,0,Unknown
+245,0,3,M,30.0,0,0,2694,7.225,,C,Attalah, Mr. Sleiman,Adult,Mr,1,1,Unknown
+345,0,2,M,36.0,0,0,229236,13.0,,S,Fox, Mr. Stanley Hubert,Adult,Mr,1,1,Unknown
+854,1,1,F,16.0,0,1,PC 17592,39.4,D28,S,Lines, Miss. Mary Conover,Teen,Miss,2,0,D
+622,1,1,M,42.0,1,0,11753,52.5542,D19,S,Kimball, Mr. Edwin Nelson Jr,Adult,Mr,2,0,D
+654,1,3,F,24.0,0,0,330919,7.8292,,Q,O'Leary," Miss. Hanora ""Norah""",Adult,Miss,1,1,Unknown
+887,0,2,M,27.0,0,0,211536,13.0,,S,Montvila, Rev. Juozas,Adult,Rev,1,1,Unknown
+111,0,1,M,47.0,0,0,110465,52.0,C110,S,Porter, Mr. Walter Chamberlain,Adult,Mr,1,1,C
+295,0,3,M,24.0,0,0,349233,7.8958,,S,Mineff, Mr. Ivan,Adult,Mr,1,1,Unknown
+448,1,1,M,34.0,0,0,113794,26.55,,S,Seward, Mr. Frederic Kimber,Adult,Mr,1,1,Unknown
+193,1,3,F,19.0,1,0,350046,7.8542,,S,Andersen-Jensen, Miss. Carla Christine Nielsine,Adult,Miss,2,0,Unknown
+683,0,3,M,20.0,0,0,6563,9.225,,S,Olsvigen, Mr. Thor Anderson,Adult,Mr,1,1,Unknown
+539,0,3,M,24.0,0,0,364498,14.5,,S,Risien, Mr. Samuel Beard,Adult,Mr,1,1,Unknown
+820,0,3,M,10.0,3,2,347088,27.9,,S,Skoog, Master. Karl Thorsten,Kid,Master,6,0,Unknown
+31,0,1,M,40.0,0,0,PC 17601,27.7208,,C,Uruchurtu, Don. Manuel E,Adult,Don,1,1,Unknown
+674,1,2,M,31.0,0,0,244270,13.0,,S,Wilhelms, Mr. Charles,Adult,Mr,1,1,Unknown
+64,0,3,M,4.0,3,2,347088,27.9,,S,Skoog, Master. Harald,Kid,Master,6,0,Unknown
+397,0,3,F,31.0,0,0,350407,7.8542,,S,Olsson, Miss. Elina,Adult,Miss,1,1,Unknown
+878,0,3,M,19.0,0,0,349212,7.8958,,S,Petroff, Mr. Nedelio,Adult,Mr,1,1,Unknown
+142,1,3,F,22.0,0,0,347081,7.75,,S,Nysten, Miss. Anna Sofia,Adult,Miss,1,1,Unknown
+794,0,1,M,37.0,0,0,PC 17600,30.6958,,C,Hoyt, Mr. William Fisher,Adult,Mr,1,1,Unknown
+236,0,3,F,24.0,0,0,W./C. 6609,7.55,,S,Harknett, Miss. Alice Phoebe,Adult,Miss,1,1,Unknown
+205,1,3,M,18.0,0,0,A/5 3540,8.05,,S,Cohen," Mr. Gurshon ""Gus""",Teen,Mr,1,1,Unknown
+621,0,3,M,27.0,1,0,2659,14.4542,,C,Yasbeck, Mr. Antoni,Adult,Mr,2,0,Unknown
+24,1,1,M,28.0,0,0,113788,35.5,A6,S,Sloper, Mr. William Thompson,Adult,Mr,1,1,A
+199,1,3,F,24.0,0,0,370370,7.75,,Q,Madigan," Miss. Margaret ""Maggie""",Adult,Miss,1,1,Unknown
+843,1,1,F,30.0,0,0,113798,31.0,,C,Serepeca, Miss. Augusta,Adult,Miss,1,1,Unknown
+740,0,3,M,24.0,0,0,349218,7.8958,,S,Nankoff, Mr. Minko,Adult,Mr,1,1,Unknown
+121,0,2,M,21.0,2,0,S.O.C. 14879,73.5,,S,Hickman, Mr. Stanley George,Adult,Mr,3,0,Unknown
+478,0,3,M,29.0,1,0,3460,7.0458,,S,Braund, Mr. Lewis Richard,Adult,Mr,2,0,Unknown
+838,0,3,M,24.0,0,0,392092,8.05,,S,Sirota, Mr. Maurice,Adult,Mr,1,1,Unknown
+791,0,3,M,24.0,0,0,12460,7.75,,Q,Keane," Mr. Andrew ""Andy""",Adult,Mr,1,1,Unknown
+363,0,3,F,45.0,0,1,2691,14.4542,,C,Barbara, Mrs. (Catherine David),Adult,Mrs,2,0,Unknown
+87,0,3,M,16.0,1,3,W./C. 6608,34.375,,S,Ford, Mr. William Neal,Teen,Mr,5,0,Unknown
+68,0,3,M,19.0,0,0,S.P. 3464,8.1583,,S,Crease, Mr. Ernest James,Adult,Mr,1,1,Unknown
+351,0,3,M,23.0,0,0,7267,9.225,,S,Odahl, Mr. Nils Martin,Adult,Mr,1,1,Unknown
+211,0,3,M,24.0,0,0,SOTON/O.Q. 3101311,7.05,,S,Ali, Mr. Ahmed,Adult,Mr,1,1,Unknown
+660,0,1,M,58.0,0,2,35273,113.275,D48,C,Newell, Mr. Arthur Webster,Adult,Mr,3,0,D
+449,1,3,F,5.0,2,1,2666,19.2583,,C,Baclini, Miss. Marie Catherine,Kid,Miss,4,0,Unknown
+821,1,1,F,52.0,1,1,12749,93.5,B69,S,Hays, Mrs. Charles Melville (Clara Jennings Gregg),Adult,Mrs,3,0,B
+361,0,3,M,40.0,1,4,347088,27.9,,S,Skoog, Mr. Wilhelm,Adult,Mr,6,0,Unknown
+803,1,1,M,11.0,1,2,113760,120.0,B96 B98,S,Carter, Master. William Thornton II,Kid,Master,4,0,B
+281,0,3,M,65.0,0,0,336439,7.75,,Q,Duane, Mr. Frank,Older,Mr,1,1,Unknown
+586,1,1,F,18.0,0,2,110413,79.65,E68,S,Taussig, Miss. Ruth,Teen,Miss,3,0,E
+71,0,2,M,32.0,0,0,C.A. 33111,10.5,,S,Jenkin, Mr. Stephen Curnow,Adult,Mr,1,1,Unknown
+300,1,1,F,50.0,0,1,PC 17558,247.5208,B58 B60,C,Baxter, Mrs. James (Helene DeLaudeniere Chaput),Adult,Mrs,2,0,B
+212,1,2,F,35.0,0,0,F.C.C. 13528,21.0,,S,Cameron, Miss. Clear Annie,Adult,Miss,1,1,Unknown
+45,1,3,F,19.0,0,0,330958,7.8792,,Q,Devaney, Miss. Margaret Delia,Adult,Miss,1,1,Unknown
+409,0,3,M,21.0,0,0,312992,7.775,,S,Birkeland, Mr. Hans Martin Monsen,Adult,Mr,1,1,Unknown
+447,1,2,F,13.0,0,1,250644,19.5,,S,Mellinger, Miss. Madeleine Violet,Teen,Miss,2,0,Unknown
+427,1,2,F,28.0,1,0,2003,26.0,,S,Clarke, Mrs. Charles V (Ada Maria Winfield),Adult,Mrs,2,0,Unknown
+169,0,1,M,37.0,0,0,PC 17318,25.925,,S,Baumann, Mr. John D,Adult,Mr,1,1,Unknown
+197,0,3,M,24.0,0,0,368703,7.75,,Q,Mernagh, Mr. Robert,Adult,Mr,1,1,Unknown
+773,0,2,F,57.0,0,0,S.O./P.P. 3,10.5,E77,S,Mack, Mrs. (Mary),Adult,Mrs,1,1,E
+73,0,2,M,21.0,0,0,S.O.C. 14879,73.5,,S,Hood, Mr. Ambrose Jr,Adult,Mr,1,1,Unknown
+423,0,3,M,29.0,0,0,315082,7.875,,S,Zimmerman, Mr. Leo,Adult,Mr,1,1,Unknown
+533,0,3,M,17.0,1,1,2690,7.2292,,C,Elias, Mr. Joseph Jr,Teen,Mr,3,0,Unknown
+592,1,1,F,52.0,1,0,36947,78.2667,D20,C,Stephenson, Mrs. Walter Bertram (Martha Eustis),Adult,Mrs,2,0,D
+313,0,2,F,26.0,1,1,250651,26.0,,S,Lahtinen, Mrs. William (Anna Sylfven),Adult,Mrs,3,0,Unknown
+312,1,1,F,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,Ryerson, Miss. Emily Borie,Teen,Miss,5,0,B
+890,1,1,M,26.0,0,0,111369,30.0,C148,C,Behr, Mr. Karl Howell,Adult,Mr,1,1,C
+836,1,1,F,39.0,1,1,PC 17756,83.1583,E49,C,Compton, Miss. Sara Rebecca,Adult,Miss,3,0,E
+834,0,3,M,23.0,0,0,347468,7.8542,,S,Augustsson, Mr. Albert,Adult,Mr,1,1,Unknown
+606,0,3,M,36.0,1,0,349910,15.55,,S,Lindell, Mr. Edvard Bengtsson,Adult,Mr,2,0,Unknown
+768,0,3,F,30.5,0,0,364850,7.75,,Q,Mangan, Miss. Mary,Adult,Miss,1,1,Unknown
+540,1,1,F,22.0,0,2,13568,49.5,B39,C,Frolicher, Miss. Hedwig Margaritha,Adult,Miss,3,0,B
+358,0,2,F,38.0,0,0,237671,13.0,,S,Funk, Miss. Annie Clemmer,Adult,Miss,1,1,Unknown
+255,0,3,F,41.0,0,2,370129,20.2125,,S,Rosblom, Mrs. Viktor (Helena Wilhelmina),Adult,Mrs,3,0,Unknown
+267,0,3,M,16.0,4,1,3101295,39.6875,,S,Panula, Mr. Ernesti Arvid,Teen,Mr,6,0,Unknown
+67,1,2,F,29.0,0,0,C.A. 29395,10.5,F33,S,Nye, Mrs. (Elizabeth Ramell),Adult,Mrs,1,1,F
+320,1,1,F,40.0,1,1,16966,134.5,E34,C,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone),Adult,Mrs,3,0,E
+779,0,3,M,24.0,0,0,36865,7.7375,,Q,Kilgannon, Mr. Thomas J,Adult,Mr,1,1,Unknown
+175,0,1,M,56.0,0,0,17764,30.6958,A7,C,Smith, Mr. James Clinch,Adult,Mr,1,1,A
+494,0,1,M,71.0,0,0,PC 17609,49.5042,,C,Artagaveytia, Mr. Ramon,Older,Mr,1,1,Unknown
+216,1,1,F,31.0,1,0,35273,113.275,D36,C,Newell, Miss. Madeleine,Adult,Miss,2,0,D
+310,1,1,F,30.0,0,0,PC 17485,56.9292,E36,C,Francatelli, Miss. Laura Mabel,Adult,Miss,1,1,E
+823,0,1,M,38.0,0,0,19972,0.0,,S,Reuchlin, Jonkheer. John George,Adult,Jonkheer,1,1,Unknown
+251,0,3,M,24.0,0,0,362316,7.25,,S,Reed, Mr. James George,Adult,Mr,1,1,Unknown
+166,1,3,M,9.0,0,2,363291,20.525,,S,Goldsmith," Master. Frank John William ""Frankie""",Kid,Master,3,0,Unknown
+542,0,3,F,9.0,4,2,347082,31.275,,S,Andersson, Miss. Ingeborg Constanzia,Kid,Miss,7,0,Unknown
+626,0,1,M,61.0,0,0,36963,32.3208,D50,S,Sutton, Mr. Frederick,Older,Mr,1,1,D
+389,0,3,M,24.0,0,0,367655,7.7292,,Q,Sadlier, Mr. Matthew,Adult,Mr,1,1,Unknown
+77,0,3,M,24.0,0,0,349208,7.8958,,S,Staneff, Mr. Ivan,Adult,Mr,1,1,Unknown
+282,0,3,M,28.0,0,0,347464,7.8542,,S,Olsson, Mr. Nils Johan Goransson,Adult,Mr,1,1,Unknown
+713,1,1,M,48.0,1,0,19996,52.0,C126,S,Taylor, Mr. Elmer Zebley,Adult,Mr,2,0,C
+339,1,3,M,45.0,0,0,7598,8.05,,S,Dahl, Mr. Karl Edwart,Adult,Mr,1,1,Unknown
+328,1,2,F,36.0,0,0,28551,13.0,D,S,Ball, Mrs. (Ada E Hall),Adult,Mrs,1,1,D
+322,0,3,M,27.0,0,0,349219,7.8958,,S,Danoff, Mr. Yoto,Adult,Mr,1,1,Unknown
+546,0,1,M,64.0,0,0,693,26.0,,S,Nicholson, Mr. Arthur Ernest,Older,Mr,1,1,Unknown
+591,0,3,M,35.0,0,0,STON/O 2. 3101273,7.125,,S,Rintamaki, Mr. Matti,Adult,Mr,1,1,Unknown
+292,1,1,F,19.0,1,0,11967,91.0792,B49,C,Bishop, Mrs. Dickinson H (Helen Walton),Adult,Mrs,2,0,B
+466,0,3,M,38.0,0,0,SOTON/O.Q. 3101306,7.05,,S,Goncalves, Mr. Manuel Estanslas,Adult,Mr,1,1,Unknown
+815,0,3,M,30.5,0,0,364499,8.05,,S,Tomlin, Mr. Ernest Portage,Adult,Mr,1,1,Unknown
+443,0,3,M,25.0,1,0,347076,7.775,,S,Petterson, Mr. Johan Emil,Adult,Mr,2,0,Unknown
+671,1,2,F,40.0,1,1,29750,39.0,,S,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),Adult,Mrs,3,0,Unknown
+463,0,1,M,47.0,0,0,111320,38.5,E63,S,Gee, Mr. Arthur H,Adult,Mr,1,1,E
+287,1,3,M,30.0,0,0,345774,9.5,,S,de Mulder, Mr. Theodore,Adult,Mr,1,1,Unknown
+210,1,1,M,40.0,0,0,112277,31.0,A31,C,Blank, Mr. Henry,Adult,Mr,1,1,A
+670,1,1,F,37.0,1,0,19996,52.0,C126,S,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright),Adult,Mrs,2,0,C
+228,0,3,M,20.5,0,0,A/5 21173,7.25,,S,Lovell," Mr. John Hall (""Henry"")",Adult,Mr,1,1,Unknown
+850,1,1,F,37.0,1,0,17453,89.1042,C92,C,Goldenberg, Mrs. Samuel L (Edwiga Grabowska),Adult,Mrs,2,0,C
+513,1,1,M,36.0,0,0,PC 17473,26.2875,E25,S,McGough, Mr. James Robert,Adult,Mr,1,1,E
+528,0,1,M,37.0,0,0,PC 17483,221.7792,C95,S,Farthing, Mr. John,Adult,Mr,1,1,C
+877,0,3,M,20.0,0,0,7534,9.8458,,S,Gustafsson, Mr. Alfred Ossian,Adult,Mr,1,1,Unknown
+97,0,1,M,71.0,0,0,PC 17754,34.6542,A5,C,Goldschmidt, Mr. George B,Older,Mr,1,1,A
+293,0,2,M,36.0,0,0,SC/Paris 2163,12.875,D,C,Levy, Mr. Rene Jacques,Adult,Mr,1,1,D
+324,1,2,F,22.0,1,1,248738,29.0,,S,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh),Adult,Mrs,3,0,Unknown
+737,0,3,F,48.0,1,3,W./C. 6608,34.375,,S,Ford, Mrs. Edward (Margaret Ann Watson),Adult,Mrs,5,0,Unknown
+530,0,2,M,23.0,2,1,29104,11.5,,S,Hocking, Mr. Richard George,Adult,Mr,4,0,Unknown
+219,1,1,F,32.0,0,0,11813,76.2917,D15,C,Bazzani, Miss. Albina,Adult,Miss,1,1,D
+276,1,1,F,63.0,1,0,13502,77.9583,D7,S,Andrews, Miss. Kornelia Theodosia,Older,Miss,2,0,D
+79,1,2,M,0.83,0,2,248738,29.0,,S,Caldwell, Master. Alden Gates,Kid,Master,3,0,Unknown
+786,0,3,M,25.0,0,0,374887,7.25,,S,Harmer, Mr. Abraham (David Lishin),Adult,Mr,1,1,Unknown
+605,1,1,M,35.0,0,0,111426,26.55,,C,Homer," Mr. Harry (""Mr E Haven"")",Adult,Mr,1,1,Unknown
+797,1,1,F,49.0,0,0,17465,25.9292,D17,S,Leader, Dr. Alice (Farnham),Adult,Dr,1,1,D
+140,0,1,M,24.0,0,0,PC 17593,79.2,B86,C,Giglio, Mr. Victor,Adult,Mr,1,1,B
+579,0,3,F,24.0,1,0,2689,14.4583,,C,Caram, Mrs. Joseph (Maria Elias),Adult,Mrs,2,0,Unknown
+495,0,3,M,21.0,0,0,A/4 45380,8.05,,S,Stanley, Mr. Edward Roland,Adult,Mr,1,1,Unknown
+360,1,3,F,24.0,0,0,330980,7.8792,,Q,Mockler," Miss. Helen Mary ""Ellie""",Adult,Miss,1,1,Unknown
+66,1,3,M,24.0,1,1,2661,15.2458,,C,Moubarek, Master. Gerios,Adult,Master,3,0,Unknown
+482,0,2,M,29.0,0,0,239854,0.0,,S,Frost," Mr. Anthony Wood ""Archie""",Adult,Mr,1,1,Unknown
+778,1,3,F,5.0,0,0,364516,12.475,,S,Emanuel, Miss. Virginia Ethel,Kid,Miss,1,1,Unknown
+600,1,1,M,49.0,1,0,PC 17485,56.9292,A20,C,Duff Gordon," Sir. Cosmo Edmund (""Mr Morgan"")",Adult,Sir,2,0,A
+831,1,3,F,15.0,1,0,2659,14.4542,,C,Yasbeck, Mrs. Antoni (Selini Alexander),Teen,Mrs,2,0,Unknown
+307,1,1,F,37.0,0,0,17421,110.8833,,C,Fleming, Miss. Margaret,Adult,Miss,1,1,Unknown
+232,0,3,M,29.0,0,0,347067,7.775,,S,Larsson, Mr. Bengt Edvin,Adult,Mr,1,1,Unknown
+846,0,3,M,42.0,0,0,C.A. 5547,7.55,,S,Abbing, Mr. Anthony,Adult,Mr,1,1,Unknown
+50,0,3,F,18.0,1,0,349237,17.8,,S,Arnold-Franchi, Mrs. Josef (Josefine Franchi),Teen,Mrs,2,0,Unknown
+653,0,3,M,21.0,0,0,8475,8.4333,,S,Kalvik, Mr. Johannes Halvorsen,Adult,Mr,1,1,Unknown
+855,0,2,F,44.0,1,0,244252,26.0,,S,Carter, Mrs. Ernest Courtenay (Lilian Hughes),Adult,Mrs,2,0,Unknown
+343,0,2,M,28.0,0,0,248740,13.0,,S,Collander, Mr. Erik Gustaf,Adult,Mr,1,1,Unknown
+595,0,2,M,37.0,1,0,SC/AH 29037,26.0,,S,Chapman, Mr. John Henry,Adult,Mr,2,0,Unknown
+886,0,3,F,39.0,0,5,382652,29.125,,Q,Rice, Mrs. William (Margaret Norton),Adult,Mrs,6,0,Unknown
+417,1,2,F,34.0,1,1,28220,32.5,,S,Drew, Mrs. James Vivian (Lulu Thorne Christian),Adult,Mrs,3,0,Unknown
+214,0,2,M,30.0,0,0,250646,13.0,,S,Givard, Mr. Hans Kristensen,Adult,Mr,1,1,Unknown
+34,0,2,M,66.0,0,0,C.A. 24579,10.5,,S,Wheadon, Mr. Edward H,Older,Mr,1,1,Unknown
+32,1,1,F,37.0,1,0,PC 17569,146.5208,B78,C,Spencer, Mrs. William Augustus (Marie Eugenie),Adult,Mrs,2,0,B
+669,0,3,M,43.0,0,0,A/5 3536,8.05,,S,Cook, Mr. Jacob,Adult,Mr,1,1,Unknown
+585,0,3,M,24.0,0,0,3411,8.7125,,C,Paulner, Mr. Uscher,Adult,Mr,1,1,Unknown
+515,0,3,M,24.0,0,0,349209,7.4958,,S,Coleff, Mr. Satio,Adult,Mr,1,1,Unknown
+689,0,3,M,18.0,0,0,350036,7.7958,,S,Fischer, Mr. Eberhard Thelander,Teen,Mr,1,1,Unknown
+110,1,3,F,24.0,1,0,371110,24.15,,Q,Moran, Miss. Bertha,Adult,Miss,2,0,Unknown
+78,0,3,M,24.0,0,0,374746,8.05,,S,Moutal, Mr. Rahamin Haim,Adult,Mr,1,1,Unknown
+612,0,3,M,24.0,0,0,SOTON/O.Q. 3101305,7.05,,S,Jardin, Mr. Jose Neto,Adult,Mr,1,1,Unknown
+644,1,3,M,24.0,0,0,1601,56.4958,,S,Foo, Mr. Choong,Adult,Mr,1,1,Unknown
+83,1,3,F,24.0,0,0,330932,7.7875,,Q,McDermott, Miss. Brigdet Delia,Adult,Miss,1,1,Unknown
+519,1,2,F,36.0,1,0,226875,26.0,,S,Angle," Mrs. William A (Florence ""Mary"" Agnes Hughes)",Adult,Mrs,2,0,Unknown
+658,0,3,F,32.0,1,1,364849,15.5,,Q,Bourke, Mrs. John (Catherine),Adult,Mrs,3,0,Unknown
+297,0,3,M,23.5,0,0,2693,7.2292,,C,Hanna, Mr. Mansour,Adult,Mr,1,1,Unknown
+508,1,1,M,37.0,0,0,111427,26.55,,S,Bradley," Mr. George (""George Arthur Brayton"")",Adult,Mr,1,1,Unknown
+809,0,2,M,39.0,0,0,248723,13.0,,S,Meyer, Mr. August,Adult,Mr,1,1,Unknown
+376,1,1,F,37.0,1,0,PC 17604,82.1708,,C,Meyer, Mrs. Edgar Joseph (Leila Saks),Adult,Mrs,2,0,Unknown
+6,0,3,M,24.0,0,0,330877,8.4583,,Q,Moran, Mr. James,Adult,Mr,1,1,Unknown
+55,0,1,M,65.0,0,1,113509,61.9792,B30,C,Ostby, Mr. Engelhart Cornelius,Older,Mr,2,0,B
+399,0,2,M,23.0,0,0,244278,10.5,,S,Pain, Dr. Alfred,Adult,Dr,1,1,Unknown
+458,1,1,F,37.0,1,0,17464,51.8625,D21,S,Kenyon, Mrs. Frederick R (Marion),Adult,Mrs,2,0,D
+522,0,3,M,22.0,0,0,349252,7.8958,,S,Vovk, Mr. Janko,Adult,Mr,1,1,Unknown
+364,0,3,M,35.0,0,0,SOTON/O.Q. 3101310,7.05,,S,Asim, Mr. Adola,Adult,Mr,1,1,Unknown
+98,1,1,M,23.0,0,1,PC 17759,63.3583,D10 D12,C,Greenfield, Mr. William Bertram,Adult,Mr,2,0,D
+418,1,2,F,18.0,0,2,250652,13.0,,S,Silven, Miss. Lyyli Karoliina,Teen,Miss,3,0,Unknown
+573,1,1,M,36.0,0,0,PC 17474,26.3875,E25,S,Flynn," Mr. John Irwin (""Irving"")",Adult,Mr,1,1,E
+853,0,3,F,9.0,1,1,2678,15.2458,,C,Boulos, Miss. Nourelain,Kid,Miss,3,0,Unknown
+434,0,3,M,17.0,0,0,STON/O 2. 3101274,7.125,,S,Kallio, Mr. Nikolai Erland,Teen,Mr,1,1,Unknown
+774,0,3,M,24.0,0,0,2674,7.225,,C,Elias, Mr. Dibo,Adult,Mr,1,1,Unknown
+26,1,3,F,38.0,1,5,347077,31.3875,,S,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson),Adult,Mrs,7,0,Unknown
+85,1,2,F,17.0,0,0,SO/C 14885,10.5,,S,Ilett, Miss. Bertha,Teen,Miss,1,1,Unknown
+11,1,3,F,4.0,1,1,PP 9549,16.7,G6,S,Sandstrom, Miss. Marguerite Rut,Kid,Miss,3,0,G
